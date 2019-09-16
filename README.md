@@ -2,6 +2,8 @@
 
 纯原生 js 的 **移动端** 城市选择插件，不依赖任何库
 
+数据来源: [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
+> 提示：当前数据未包含港澳台
 ## 用法
 
 在 html 页面中引入 input 标签，写法如下：
